@@ -65,6 +65,3 @@ plt.show()
 
 The **Canny Edge Detection algorithm** successfully identified edges in the sample image. By tuning the threshold parameters, the clarity and number of detected edges can be adjusted.
 
----
-
-Would you like me to format it as a short “lab record page” (with sections like *Theory*, *Algorithm*, *Output*, etc.) so it looks ready to print?
